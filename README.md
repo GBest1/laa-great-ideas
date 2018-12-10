@@ -9,7 +9,7 @@ Great Ideas allows LAA staff to submit their ideas for consideration to the Cont
 Install [PostgreSQL](https://www.postgresql.org) 10.5
 
 ### Setup
-
+Graham was here today
 ```
 bundle install
 
