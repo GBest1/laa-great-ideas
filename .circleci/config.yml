@@ -20,3 +20,6 @@ jobs:
       - run:
           name: Install dependencies
           command: npm install
+      - run:
+          name: setup database
+          command: bundle exec rake db:create db:schema:load
